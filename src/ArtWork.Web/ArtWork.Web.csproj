@@ -3,8 +3,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <PreserveCompilationContext>true</PreserveCompilationContext>
     <OutputType>Exe</OutputType>
-    <PackageId>CleanArchitecture.Web</PackageId>
-    <RootNamespace>CleanArchitecture.Web</RootNamespace>
+    <PackageId>ArtWork.Web</PackageId>
+    <RootNamespace>ArtWork.Web</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

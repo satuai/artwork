@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <PackageId>CleanArchitecture.Infrastructure</PackageId>
-    <RootNamespace>CleanArchitecture.Infrastructure</RootNamespace>
+    <PackageId>ArtWork.Infrastructure</PackageId>
+    <RootNamespace>ArtWork.Infrastructure</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
